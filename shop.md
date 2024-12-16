@@ -14,7 +14,7 @@ Welcome to our online shop! Below you’ll find a selection of our favorite prod
 - A warm, soft blanket perfect for chilly evenings.
 - [Buy Now](#) (Replace with PayPal/Stripe button link)
 
-![Cozy Blanket](/assets/images/cozy-blanket.jpg)
+![Cozy Blanket](https://picsum.photos/seed/cozy-blanket/600/400)
 
 ---
 
@@ -23,7 +23,7 @@ Welcome to our online shop! Below you’ll find a selection of our favorite prod
 - Wrap yourself in softness with this handmade scarf.
 - [Buy Now](#) (Replace with PayPal/Stripe button link)
 
-![Scarf](/assets/images/scarf.jpg)
+![Scarf](https://picsum.photos/seed/scarf/600/400)
 
 ---
 
@@ -32,4 +32,4 @@ Welcome to our online shop! Below you’ll find a selection of our favorite prod
 - Delightfully snug for tiny feet.
 - [Buy Now](#)
 
-![Baby Boots](/assets/images/baby-booties.jpg)
+![Baby Boots](https://picsum.photos/seed/baby-boots/600/400)
