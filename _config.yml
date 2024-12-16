@@ -1,0 +1,9 @@
+title: "Hook & Hearth by Sara"
+description: "Embrace the Warmth of Handmade"
+baseurl: "" # for GitHub Pages project site, leave empty if using <username>.github.io
+url: "https://richardoelschlager.github.io" # Replace with your own URL
+theme: null
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
