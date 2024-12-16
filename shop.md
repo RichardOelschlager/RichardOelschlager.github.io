@@ -9,27 +9,30 @@ Welcome to our online shop! Below you’ll find a selection of our favorite prod
 
 ---
 
-### Cozy Blanket
-- Price: $50
-- A warm, soft blanket perfect for chilly evenings.
-- [Buy Now](#) (Replace with PayPal/Stripe button link)
-
-![Cozy Blanket](https://picsum.photos/seed/cozy-blanket/600/400)
-
----
-
-### Hand-Crocheted Scarf
-- Price: $25
-- Wrap yourself in softness with this handmade scarf.
-- [Buy Now](#) (Replace with PayPal/Stripe button link)
-
-![Scarf](https://picsum.photos/seed/scarf/600/400)
+<div class="product-card">
+  <img src="https://picsum.photos/seed/cozy-blanket/600/400" alt="Cozy Blanket">
+  <h3>Cozy Blanket</h3>
+  <p>Price: $50</p>
+  <p>A warm, soft blanket perfect for chilly evenings.</p>
+  <a class="btn" href="#">Buy Now</a>
+</div>
 
 ---
 
-### Baby Boots
-- Price: $15
-- Delightfully snug for tiny feet.
-- [Buy Now](#)
+<div class="product-card">
+  <img src="https://picsum.photos/seed/scarf/600/400" alt="Hand-Crocheted Scarf">
+  <h3>Hand-Crocheted Scarf</h3>
+  <p>Price: $25</p>
+  <p>Wrap yourself in softness with this handmade scarf.</p>
+  <a class="btn" href="#">Buy Now</a>
+</div>
 
-![Baby Boots](https://picsum.photos/seed/baby-boots/600/400)
+---
+
+<div class="product-card">
+  <img src="https://picsum.photos/seed/baby-boots/600/400" alt="Baby Boots">
+  <h3>Baby Boots</h3>
+  <p>Price: $15</p>
+  <p>Delightfully snug for tiny feet.</p>
+  <a class="btn" href="#">Buy Now</a>
+</div>
